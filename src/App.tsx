@@ -405,6 +405,7 @@ export default function App() {
             &copy; {new Date().getFullYear()} FreeAi. All rights reserved.
           </p>
           <div className="flex items-center gap-6 text-sm text-zinc-500">
+            <a href="https://illuminationacceptedkeynote.com/xum0v2wqd?key=5ffe66705cf9180a523d6167e6a3a02f" target="_blank" rel="noopener noreferrer" className="hover:text-zinc-300 transition-colors">Partners</a>
             <button onClick={() => setCurrentView('about')} className="hover:text-zinc-300 transition-colors">About</button>
             <button onClick={() => setCurrentView('privacy')} className="hover:text-zinc-300 transition-colors">Privacy Policy</button>
           </div>
